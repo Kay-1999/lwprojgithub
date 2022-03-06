@@ -1,3 +1,4 @@
 date
 cal
-echo how ru 
+echo how ru
+echo Aatma Namastey to everyone from Kratarth
